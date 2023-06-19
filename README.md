@@ -14,7 +14,7 @@ npm i
 ```
 
 ## Usage
-This website is deployed on Heroku and can be accessed through this link: https://note-taker-2021.herokuapp.com/
+This website is deployed on Heroku and can be accessed through this link: https://note-taker-mahdimoradzadeh-27d83e19b458.herokuapp.com/
 
 ## License
 This project is licensed under the MIT license.
